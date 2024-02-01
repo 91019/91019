@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm ---> T. Arun Theja</h1>
 <h3 align="center">GitDevSecOps</h3>
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=91019" alt="91019" /></a> </p>
 
 - 🌱 I’m currently learning **Cloud, DevOps, DevSecOps, GitOps**
