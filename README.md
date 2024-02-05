@@ -24,13 +24,13 @@
   <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" title="Amazon Web Services (AWS)" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" title="Microsoft Azure" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" title="Google Cloud Platform (GCP)" width="40" height="40"/> </p>
 
 - #### DevOps
-  <p align="left"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" title="Jenkins" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" title="Ansible" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" title="Vagrant" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" title="Terraform" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" title="Docker" width="50" height="40"/>  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" title="Kubernetes (K8s)" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm" title="Helm" width="40" height="40"/> </p>
+  <p align="left"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" title="Jenkins" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" title="Ansible" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" title="Vagrant" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/packerio/packerio-icon.svg" alt="packer" title="Packer" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" title="Terraform" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" title="Docker" width="50" height="40"/>  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" title="Kubernetes (K8s)" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm" title="Helm" width="40" height="40"/> </p>
 
 - #### DevSecOps
   <p align="left"> </p>
   
 - #### GitOps
-  <p align="left"> </p>
+  <p align="left"> <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="argo cd" title="Argo CD" width="40" height="40"/> </p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=91019&show_icons=true&locale=en&layout=compact" alt="91019" /></p>
