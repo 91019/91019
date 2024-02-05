@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ---> T. Arun Theja</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/91019/91019/main/Logo Icons & Symbols/GitDevSecOps.png"> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/91019/91019/main/Logo Icons & Symbols/GitDevSecOps.png" width="60"> </div>
 <h3 align="center">GitDevSecOps</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
