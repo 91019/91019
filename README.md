@@ -36,10 +36,10 @@
   <p align="left"> <img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" alt="datadog" title="Datadog" width="40" height="40"/>   <img src="https://www.vectorlogo.zone/logos/newrelic/newrelic-icon.svg" alt="new relic" title="New Relic" width="40" height="40"/>   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" title="Prometheus" width="40" height="40"/>   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" title="Grafana" width="40" height="40"/> </p>
 
 - #### Logs/Logging
-  [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/linux.png" />]
+  
 
 - #### Alerts/Alerting
-  [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/linux.png" />]
+  <p align="left"> <img src="https://play-lh.googleusercontent.com/E-zhAf4KJ6JDDXmQfQxBprn2sATGYUMkOEqLQX5HAQQtiwDZJg4c8sQd7deb6nCZCwU=w240-h480-rw" alt="datadog" title="Datadog" width="40" height="40"/> </p>
   
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=91019&show_icons=true&locale=en&layout=compact" alt="91019" /></p>
