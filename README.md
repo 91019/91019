@@ -33,7 +33,7 @@
   <p align="left"> <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="argo cd" title="Argo CD" width="50" height="40"/> </p>
 
 - #### Monitoring
-  [<img align="left" alt="datadog" title="Datadog" width="40px" src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" />]
+  <img align="left" alt="datadog" title="Datadog" width="40px" src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" />
 
 - #### Logs/Logging
   [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/linux.png" />]
