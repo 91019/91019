@@ -36,7 +36,7 @@
   <p align="left"> <img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" alt="datadog" title="Datadog" width="40" height="40"/>   <img src="https://www.vectorlogo.zone/logos/newrelic/newrelic-icon.svg" alt="new relic" title="New Relic" width="40" height="40"/>   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" title="Prometheus" width="40" height="40"/>   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" title="Grafana" width="40" height="40"/> </p>
 
 - #### Logs/Logging
-  
+  <p align="left"> <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" alt="splunk" title="Splunk" width="40" height="40"/> </p>
 
 - #### Alerts/Alerting
   <p align="left"> <img src="https://play-lh.googleusercontent.com/E-zhAf4KJ6JDDXmQfQxBprn2sATGYUMkOEqLQX5HAQQtiwDZJg4c8sQd7deb6nCZCwU=w240-h480-rw" alt="pagerduty" title="PagerDuty" width="40" height="40"/>   <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" title="Slack" width="40" height="40"/> </p>
