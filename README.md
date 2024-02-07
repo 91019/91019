@@ -12,7 +12,7 @@
 </p>
 
 
-<h3 align="left">Languages and Tools:-</h3>
+<h3 align="left">Languages and Tools :-</h3>
 
 - #### Others
   <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" title="Linux" width="40" height="40"/> </p>
@@ -32,6 +32,15 @@
 - #### GitOps
   <p align="left"> <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="argo cd" title="Argo CD" width="50" height="40"/> </p>
 
+- #### Monitoring
+  [<img align="left" alt="datadog" title="Datadog" width="40px" src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" />]
+
+- #### Logs/Logging
+  [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/linux.png" />]
+
+- #### Alerts/Alerting
+  [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/linux.png" />]
+  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=91019&show_icons=true&locale=en&layout=compact" alt="91019" /></p>
 
