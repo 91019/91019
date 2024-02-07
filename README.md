@@ -1,4 +1,4 @@
-![image](https://github.com/91019/91019/assets/155705376/6d691a2a-a8bb-4b24-9180-cfb2a09a8c49)![image](https://github.com/91019/91019/assets/155705376/4dee74b1-098d-4118-9f8f-3ef22e776df1)<h1 align="center">Hi 👋, I'm ---> T. Arun Theja</h1>
+align="center">Hi 👋, I'm ---> T. Arun Theja</h1>
 <div align="center"> <img src="https://raw.githubusercontent.com/91019/91019/main/Logo Icons & Symbols/GitDevSecOps.png"> </div>
 <h3 align="center">GitDevSecOps</h3>
 
@@ -33,10 +33,7 @@
   <p align="left"> <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="argo cd" title="Argo CD" width="50" height="40"/> </p>
 
 - #### Monitoring
-  <p align="left"> <img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" alt="datadog" title="Datadog" width="40" height="40"/> </p>
-  <p align="left"> <img src="https://www.vectorlogo.zone/logos/newrelic/newrelic-icon.svg" alt="new relic" title="New Relic" width="40" height="40"/> </p>
-  <p align="left"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" title="Prometheus" width="40" height="40"/> </p>
-  <p align="left"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" title="Grafana" width="40" height="40"/> </p>
+  <p align="left"> <img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" alt="datadog" title="Datadog" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/newrelic/newrelic-icon.svg" alt="new relic" title="New Relic" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" title="Prometheus" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" title="Grafana" width="40" height="40"/> </p>
 
 - #### Logs/Logging
   [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/linux.png" />]
