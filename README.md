@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ---> T. Arun Theja</h1>
+![image](https://github.com/91019/91019/assets/155705376/a976c293-1de9-4248-814f-2d7d420c5987)![image](https://github.com/91019/91019/assets/155705376/bebd4248-cdc3-4888-87de-bd10ce4d4992)<h1 align="center">Hi 👋, I'm ---> T. Arun Theja</h1>
 <div align="center"> <img src="https://raw.githubusercontent.com/91019/91019/main/Logo Icons & Symbols/GitDevSecOps.png"> </div>
 <h3 align="center">GitDevSecOps</h3>
 
@@ -42,7 +42,7 @@
   <p align="left"> <img src="https://play-lh.googleusercontent.com/E-zhAf4KJ6JDDXmQfQxBprn2sATGYUMkOEqLQX5HAQQtiwDZJg4c8sQd7deb6nCZCwU=w240-h480-rw" alt="pagerduty" title="PagerDuty" width="40" height="40"/>   <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" title="Slack" width="40" height="40"/> </p>
 
 - #### Generative Artificial Intelligence (Generative AI / GenAI) integration with GitDevSecOps
-  <p align="left"> <img src="https://chatgptaihub.com/wp-content/uploads/2023/06/ChatGpt-logo-With-colour-Background-and-features-ChatGPT-Name-1320x388.png" alt="ChatGPT" title="ChatGPT" width="70" height="50"/>   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="OpenAI" title="OpenAI" width="70" height="50"/> </p>
+  <p align="left"> <img src="https://i0.wp.com/www.cloverinfotech.com/wp-content/uploads/2023/09/openai-chatgpt.jpg?resize=1024%2C488&ssl=1" alt="ChatGPT" title="ChatGPT" width="80" height="50"/>   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="OpenAI" title="OpenAI" width="80" height="50"/> </p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=91019&show_icons=true&locale=en&layout=compact" alt="91019" /></p>
