@@ -40,7 +40,10 @@
 
 - #### Alerts/Alerting
   <p align="left"> <img src="https://play-lh.googleusercontent.com/E-zhAf4KJ6JDDXmQfQxBprn2sATGYUMkOEqLQX5HAQQtiwDZJg4c8sQd7deb6nCZCwU=w240-h480-rw" alt="pagerduty" title="PagerDuty" width="40" height="40"/>   <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" title="Slack" width="40" height="40"/> </p>
-  
+
+- #### Generative Artificial Intelligence/Generative AI (GenAI) with GitDevSecOps
+  <p align="left"> <img src="https://i0.wp.com/www.cloverinfotech.com/wp-content/uploads/2023/09/openai-chatgpt.jpg?resize=1024%2C488&ssl=1" alt="ChatGPT" title="ChatGPT" width="50" height="50"/>   <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" title="Slack" width="40" height="40"/> </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=91019&show_icons=true&locale=en&layout=compact" alt="91019" /></p>
 
