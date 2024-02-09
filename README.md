@@ -1,4 +1,4 @@
-![image](https://github.com/91019/91019/assets/155705376/a976c293-1de9-4248-814f-2d7d420c5987)![image](https://github.com/91019/91019/assets/155705376/bebd4248-cdc3-4888-87de-bd10ce4d4992)<h1 align="center">Hi 👋, I'm ---> T. Arun Theja</h1>
+<h1 align="center">Hi 👋, I'm ---> T. Arun Theja</h1>
 <div align="center"> <img src="https://raw.githubusercontent.com/91019/91019/main/Logo Icons & Symbols/GitDevSecOps.png"> </div>
 <h3 align="center">GitDevSecOps</h3>
 
